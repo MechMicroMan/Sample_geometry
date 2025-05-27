@@ -6,4 +6,4 @@ There are four options:
 - Lyre
 - SSJ
 
-**Confirm which sample geometry is suitable with the person running you experiment before you mnanufacture samples as each geomtery has limitations!**
+**Confirm which sample geometry is suitable with the person running you experiment before you manufacture samples as each geomtery has limitations!!**
